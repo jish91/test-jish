@@ -1,0 +1,6 @@
+
+name = Hasan
+
+size = 100
+
+email = jish@abv.bg
